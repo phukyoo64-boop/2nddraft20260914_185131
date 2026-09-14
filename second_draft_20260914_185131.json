@@ -1,0 +1,328 @@
+{
+  "timestamp": "20260914_185131",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "The Call to Rise",
+      "reasoning": "The 'I' in the source is an unnamed narrator. This chunk involves Hobo, Becky, and Actress, and references the conflict between Hobo and Becky over the legitimacy of an operation. The setting is an abandoned building at night, with a homeless man trying to mediate the conflict. This fits the theme of resistance and conflict in a dystopian setting.",
+      "scene": "In the dim light of an abandoned building, Hobo, dressed in tattered clothing, sits hunched against a wall, his eyes wide with confusion as he watches Becky and Actress argue. The room is cluttered with old furniture and broken tools, giving the space a sense of neglect and decay.",
+      "dialogue": [
+        {
+          "character": "Hobo",
+          "line": "Um... !wave Becky, Billy, Bobby, Actress",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "That power is too much for you.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "I'm just gonna put that power away. I'm gonna slow down.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "Oh, my God! I'm gonna start doing my pickpocketing.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "You're so tired. I'm gonna go up.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Billy",
+          "line": "There we go, Nigger.",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "I can find your operation. It's f**king seal. Mung Seal.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Bobby",
+          "line": "Um... Ba-ba-ba-ba. Let's see.",
+          "cast_type": "visiting",
+          "raw_name": "Bobby",
+          "match_score": 0.4
+        },
+        {
+          "character": "Actress",
+          "line": "You're not going to dermatologist's yard.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "Hey! I'm gonna source it with the guts.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Billy",
+          "line": "Hey! Look at that. There you go.",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 11,
+      "speakers": [
+        "Actress",
+        "Becky",
+        "Billy",
+        "Bobby",
+        "Hobo"
+      ]
+    },
+    {
+      "title": "The Abandoned Building",
+      "reasoning": "The source text is a chaotic and disjointed dialogue among homeless individuals and actors. The unnamed narrator provides a sense of confusion and the setting is an abandoned building. The key cast members involved are Hobo, Becky, and Actress. The dramatic conflict is the argument between Becky and Actress over an operation, while Hobo tries to mediate the situation.",
+      "scene": "The setting is a dimly lit, abandoned building filled with discarded items and broken tools. The air is thick with tension as Hobo, dressed in tattered clothing, hunches against the wall, holding a broken flashlight. Becky, in a worn leather jacket, stands near a pile of items, arguing with Actress, whose wild hair and tense posture suggest she is frustrated. Hobo looks on, trying to intervene.",
+      "dialogue": [
+        {
+          "character": "Hobo",
+          "line": "Shhh. Very good. That's a lot.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "It's just a little bit more.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Actress",
+          "line": "Okay, Вб 연습い. I longed this here before for three years, so we're just with friends on the next galaxy.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Billy",
+          "line": "Now, there's again, there's more to these people, Thank you George.",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "You should have a shot.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "Oh, is this, oh this is stable.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Actress",
+          "line": "Oh my god. Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Billy",
+          "line": "Oh, you went again.",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Actress",
+          "line": "Oh, okay. Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "Oh my god.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "Come on, though.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "That looks pretty good.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "That looks like a cup.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Billy",
+          "line": "That looks like a cup.",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Becky",
+          "line": "Oh, look at the Chinese. You're doing Chinese, though.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        }
+      ],
+      "rank": 2,
+      "source_file": "chunk_02",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 18,
+      "speakers": [
+        "Actress",
+        "Becky",
+        "Billy",
+        "Hobo"
+      ]
+    },
+    {
+      "title": "The Approaching Shadow",
+      "reasoning": "The 'I' in the source is an unnamed narrator, not a specific character from the CAST. The chunk involves Jack, the revolutionary philosopher, and the tension arises from the fear of King Michael's torturer approaching. The setting is an underground meeting place, likely a dimly lit cellar or hidden chamber, where Jack and other revolutionaries are preparing for a broadcast.",
+      "scene": "The dimly lit cellar is cluttered with old furniture and worn-out tools. Shadows dance across the walls as Jack, his eyes wide with fear and determination, stands in the center. The tension is palpable as the sound of heavy footsteps echoes from the door, causing everyone to huddle closer together. Scribe, Scholar1, and Young are whispering in the background, trying to keep their voices low.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "The footsteps are getting closer. We need to be ready.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Scribe",
+          "line": "How do we know it's not just a false alarm?",
+          "cast_type": "canonical",
+          "raw_name": "Scribe",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Because I can feel his presence. He's coming for us.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Young",
+          "line": "We must stay calm. We can't let fear take over.",
+          "cast_type": "canonical",
+          "raw_name": "Young",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "We're not just a group of idealists, Young. We're the future of this land. We have to be ready.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Scribe",
+          "line": "But what if we're not ready? What if the King's torturer finds us?",
+          "cast_type": "canonical",
+          "raw_name": "Scribe",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Then we must fight. We must defend the philosophy we believe in. For the people, for the future.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 3,
+      "source_file": "chunk_03",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Jack",
+        "Scribe",
+        "Young"
+      ]
+    }
+  ]
+}
